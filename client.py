@@ -3,7 +3,7 @@ from pygame.locals import *
 from threading import Thread
 
 WINDOW_SIZE = (800, 600)
-HOST = '0.0.0.0'
+HOST = '54.36.103.96'
 PORT = 1234
 
 BUFSIZE = 2048
