@@ -2,7 +2,7 @@ import pygame, random, threading, socket
 from pygame.locals import *
 from threading import Thread
 
-WINDOW_SIZE = (800, 600)
+WINDOW_SIZE = (800, 800)
 HOST = '54.36.103.96'
 PORT = 1234
 
